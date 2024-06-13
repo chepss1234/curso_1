@@ -1,3 +1,5 @@
+
+print("holaa ya camibie")
 nombre = input("Cual es tu nombre?: ")
 print ("hola "+ nombre + ",Vamos a realizar una suma.")
 
@@ -6,3 +8,4 @@ num_2 = int(input("Por favor introduce el Segundo valor: "))
 
 resulf = num_1 + num_2
 print("El resultado de la suma es: ",resulf)
+print("presione enter para salir")
